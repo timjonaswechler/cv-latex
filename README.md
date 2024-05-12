@@ -1,1 +1,1 @@
-# cv-latex
+# latex-cv-template
